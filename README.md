@@ -1,5 +1,13 @@
 # TodoApp
 
+Reference: [@SaidHayani](https://medium.freecodecamp.org/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7)
+
+
+---
+
+![demo](demo/demo.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
